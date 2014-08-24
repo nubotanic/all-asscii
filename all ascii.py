@@ -1,0 +1,4 @@
+#nubotanic CTPS
+for i in range(0,176):
+	print chr(i) + chr(i+1)+ chr(i+2)+ chr(i+3)+chr(i+4)+ chr(i+5)+chr(i+6)+chr(i+7)+chr(i+8)+chr(i+9)+chr(i+10)+chr(i+11)+chr(i+12)+chr(i+13)+chr(i+14)+chr(i+15)+chr(i+16)+chr(i+17)+chr(i+18)+chr(i+19)+chr(i+20)+chr(i+21)+chr(i+22)+chr(i+23)+chr(i+24)+chr(i+25)+chr(i+26)+chr(i+27)+chr(i+28)+chr(i+29)+chr(i+30)+chr(i+31)+chr(i+32)+chr(i+33)+chr(i+34)+chr(i+35)+chr(i+36)+chr(i+37)+chr(i+38)+chr(i+39)+chr(i+40)+chr(i+41)+chr(i+42)+chr(i+43)+chr(i+44)+chr(i+45)+chr(i+46)+chr(i+47)+chr(i+48)+chr(i+49)+chr(i+50)+chr(i+51)+chr(i+52)+chr(i+53)+chr(i+54)+chr(i+55)+chr(i+56)+chr(i+57)+chr(i+58)+chr(i+59)+chr(i+60)+chr(i+61)+chr(i+62)+chr(i+63)+chr(i+64)+chr(i+65)+chr(i+66)+chr(i+67)+chr(i+68)+chr(i+69)+chr(i+70)+chr(i+71)+chr(i+72)+chr(i+73)+chr(i+74)+chr(i+75)+chr(i+76)+chr(i+77)+chr(i+78)+chr(i+79)+chr(i+80)
+raw_input()
